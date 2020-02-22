@@ -1,3 +1,5 @@
+# https://app.codility.com/demo/results/training7GKN9R-JN7/
+
 import math
 
 
