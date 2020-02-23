@@ -1,3 +1,3 @@
 # Algorithms training
 
-A mix of coding exercises and challenges for various sites.
+A mix of coding exercises challenges from various websites.
